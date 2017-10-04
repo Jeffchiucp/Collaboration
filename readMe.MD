@@ -8,7 +8,7 @@ A lion grows up and learns the value of life and friends
 
 A List character:
 
-Pumbaa: Alan
+Pumbaa: Ansel
 Simba: Adam
 Scar:  Dan
 Mufasa : Jeffery
